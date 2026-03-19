@@ -1,0 +1,9 @@
+{
+  "name": "economist-cartoon",
+  "version": "0.1.0",
+  "description": "Generate Economist-style editorial cartoons from top news stories using Gemini image generation",
+  "author": {
+    "name": "David Gasca"
+  },
+  "keywords": ["news", "cartoon", "editorial", "gemini", "image-generation"]
+}
