@@ -66,12 +66,12 @@ names than from physical descriptions.
 Then translate the concept into a detailed image generation prompt using this template:
 
 ```
-Black and white editorial cartoon in the style of The Economist magazine.
-Pen and ink illustration with heavy cross-hatching and fine line work.
+Black and white pen and ink editorial cartoon in the style of a classic British political magazine. Heavy cross-hatching and fine line work, no color whatsoever.
 [SCENE DESCRIPTION — specific, visual, detailed].
 [LABELS on key objects in CAPS].
 [CARICATURE NOTES if applicable — exaggerated features, body language].
-Bold, dramatic composition. No color, pure black and white ink style.
+Bold, dramatic composition. Pure black and white ink only.
+No logos, no mastheads, no magazine names, no artist signatures, no text of any kind in the corners or borders.
 ```
 
 Refer to `references/style-guide.md` for prompt writing tips.
